@@ -1,11 +1,11 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Putting things together!"
+subtitle: Creating constrained, moving assemblies of 3D Models.
+image: /img/home-aaaa2.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
+    heading: Why cad-boxx?
+text: "Users can upload their own 3D Models into our special environment to create animations and simulations of mechanical assemblies in both 3D and Virtual Reality. Special Offer for 12 Months."
+    intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
